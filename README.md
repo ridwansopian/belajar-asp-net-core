@@ -6,5 +6,5 @@
  <li>profile karyawan </li>
  <li>data absensi </li>
  <li>logout</li>
-<li>Halaman index ad 2 button.button masuk dan button pulang. </li>
-<li>Menu profile karyawan menampilkan informasi karyawan. </li>
+<p>Halaman index ad 2 button.button masuk dan button pulang. </p>
+<p>Menu profile karyawan menampilkan informasi karyawan. </p>
